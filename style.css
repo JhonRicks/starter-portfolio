@@ -9,7 +9,7 @@ body {
 }
 
 header {
-  background: #3603ee;
+  background: #3700ff;
   color: white;
   padding: 2rem;
   text-align: center;
@@ -26,6 +26,6 @@ section {
 footer {
   text-align: center;
   padding: 1rem;
-  background: #837f7f;
+  background: #d8d5d5;
   font-size: 0.9rem;
 }
